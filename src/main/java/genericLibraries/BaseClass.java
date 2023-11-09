@@ -21,7 +21,6 @@ import pomPages.WelComePage;
 public class BaseClass {
 	//@BeforeSuite
 	//@BeforeTest
-	//Mahesh Lucha
 	protected PropertiesUtility property;
 	protected ExcelUtility excel;
 	protected JavaUtility jutil;
