@@ -15,6 +15,7 @@ import genericLibraries.IConstantPath;
 public class CreateCategoryTest extends BaseClass {
 	@Test
 	public void createCategoryTest() throws InterruptedException {
+		//we can create soft assert
 		SoftAssert soft=new SoftAssert();
 		home.clickcourseTab();
 		home.clickCategoryLink();
